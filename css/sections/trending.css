@@ -107,7 +107,7 @@
   background-image: url("../../assets/japanese_sushi.png");
 }
 
-.trending-drinks .trending__image {
+.trending-drink .trending__image {
   background-image: url("../../assets/japanese_drinks.png");
 }
 
@@ -129,7 +129,7 @@
 
 .trending__arrow-left {
   left: -2.5px;
-  top: 14%;
+  top: 12%;
 }
 
 .trending__arrow-left img,
@@ -139,13 +139,13 @@
 }
 
 .trending__arrow-top {
-  top: -11.5px;
+  top: -10.5px;
   left: 12%;
 }
 
 .trending__arrow-bottom {
   bottom: -6.5px;
-  right: 10%;
+  right: 12%;
 }
 
 .trending__arrow-bottom img,
@@ -155,6 +155,6 @@
 }
 
 .trending__arrow-right {
-  right: -3.75px;
-  bottom: 14%;
+  right: -2.5px;
+  bottom: 12%;
 }
